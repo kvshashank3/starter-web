@@ -1,0 +1,6 @@
+Git Quick Start Commands
+Command Listing, Part 1
+pwd
+mkdir projects
+cd projects
+pwd

@@ -1,0 +1,9 @@
+Text Editor Install and Configure
+Windows: Notepad++
+While Notepad will work, Notepad++ is a much better text editor that is also free.
+Command Listing
+notepad++ # testing to make sure it works
+notepad++ .bashrc # see contents of .bashrc file below
+npp # testing npp alias
+git config --global core.editor "notepad++.exe -multiInst -nosession"
+npp .gitconfig # open Git config file, should contain snip below
