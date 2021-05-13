@@ -9,5 +9,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## DEployment
+Just used for basic deployement
 
 ## How to Contribute
+Just by practicing
