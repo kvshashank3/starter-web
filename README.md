@@ -13,3 +13,7 @@ Just used for basic deployement
 
 ## How to Contribute
 Just by practicing
+
+### Copyright
+
+2014 Git.Training
